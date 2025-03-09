@@ -1,4 +1,4 @@
-# PyDataProcessor
+# PyC-DataProcessorBindingTest
 
 Una libreria per l'elaborazione dati ad alte prestazioni che combina la facilità d'uso di Python con l'efficienza del C++.
 
